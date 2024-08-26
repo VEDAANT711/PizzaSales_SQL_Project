@@ -40,7 +40,7 @@ This project showcases the use of SQL to analyze pizza sales data. The analysis 
 ## Technologies Used
 
 - *SQL*: For querying and analyzing the dataset.
-- *Database Management System**: (Specify the DBMS used, e.g., MySQL, PostgreSQL)
+- *Database Management System**: (Oracle)
 
 ## How to Use
 
